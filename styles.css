@@ -225,7 +225,7 @@ h2 {
 
 .news-header {
   position: absolute;
-  top: 60%;
+  top: 70%;
   left: 50%;
   min-width: 80%;
   transform: translate(-50%, -50%);
